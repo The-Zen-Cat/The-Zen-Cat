@@ -2,7 +2,7 @@
 - 👀 I’m interested in all of the things
 - 🌱 I’m currently learning all the things
 - 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me zaks@ufl.edu
+- 📫 How to reach me zachary.schirm@gmail.com
 
 <!---
 The-Zen-Cat/The-Zen-Cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
